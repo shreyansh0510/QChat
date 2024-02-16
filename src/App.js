@@ -1,8 +1,9 @@
+import Chatbox from "./Components/Chatbox";
+
 function App() {
   return (
     <div className="App">
-      <h1>Welcome to App</h1>
-      <h2>Hello react !</h2>
+      <Chatbox />
     </div>
   );
 }
